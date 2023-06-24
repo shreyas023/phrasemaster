@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phrasemaster/static/css/main.073c9b0a.css",
+    "main.js": "/phrasemaster/static/js/main.21aaa1ef.js",
+    "static/js/787.208a3708.chunk.js": "/phrasemaster/static/js/787.208a3708.chunk.js",
+    "index.html": "/phrasemaster/index.html",
+    "main.073c9b0a.css.map": "/phrasemaster/static/css/main.073c9b0a.css.map",
+    "main.21aaa1ef.js.map": "/phrasemaster/static/js/main.21aaa1ef.js.map",
+    "787.208a3708.chunk.js.map": "/phrasemaster/static/js/787.208a3708.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.21aaa1ef.js"
+  ]
+}
